@@ -6,7 +6,7 @@ let userInputColor = prompt("Qual è il tuo colore preferito?");
 let userData = userInputName + userInputSurname + userInputColor;
 const number = 21;
 
-let userPassoword = userData + number;
+let userPassword = userData + number;
 
-document.getElementById("user_pass").innerHTML = userPassoword;
+document.getElementById("user_pass").innerHTML = userPassword;
 
