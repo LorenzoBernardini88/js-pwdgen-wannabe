@@ -1,7 +1,7 @@
 
-let userInputName = prompt("Qual'è il tuo nome ?");
+let userInputName = prompt("Qual è il tuo nome ?");
 let userInputOld = prompt("Quanti anni hai ?");
-let userInputColor = prompt("Qual'è il tuo colore preferito?");
+let userInputColor = prompt("Qual è il tuo colore preferito?");
 
 let userData = userInputName + userInputOld + userInputColor;
 const number = 21;
